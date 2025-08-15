@@ -4,7 +4,7 @@
 
 **Identificação/Autor:** William Wendling Veiga
 
-**Descrição do projeto:** Projeto desempenhado para organização pessoal, onde possuira 3 formas de visualização das atividades: DAshbord(geral), Planner Diario e Planner Mensal. Alem disto havera autentificação de usuario. Farei o uso da api rest da Microsoft (Microsoft Graph)
+**Descrição do projeto:** Projeto em Angular desempenhado para organização pessoal, onde possuira 3 formas de visualização das atividades: Dashbord(geral), Planner Diario e Planner Mensal. Alem disto havera autentificação de usuario. Farei o uso da api rest da Microsoft (Microsoft Graph) 
 
 **Design System:** Link para o documento que descreve o Design System da aplicação.
 
